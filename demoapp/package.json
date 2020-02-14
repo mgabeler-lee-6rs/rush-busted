@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "xmlrpc": "chfritz/node-xmlrpc"
+  },
   "devDependencies": {
     "typescript": "3.7.5"
   }
